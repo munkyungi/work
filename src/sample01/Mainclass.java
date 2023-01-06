@@ -7,6 +7,8 @@ public class Mainclass {
 
 		System.out.println("hello java");
 		
+		System.out.println("수정완!!!!");
+		
 		//주석 -> 컴파일되지X
 		/* 
 		 * 범위주석문
